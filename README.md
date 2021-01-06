@@ -1,2 +1,2 @@
 # PythonLearning
-iNeuron
+iNeuron Machine Learning class
